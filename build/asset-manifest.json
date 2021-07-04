@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//NaEbrahimpour.github.io/reactWeb/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/http//NaEbrahimpour.github.io/reactWeb/static/js/main.6d8bb017.chunk.js",
+    "main.js.map": "/http//NaEbrahimpour.github.io/reactWeb/static/js/main.6d8bb017.chunk.js.map",
+    "runtime-main.js": "/http//NaEbrahimpour.github.io/reactWeb/static/js/runtime-main.98472bcf.js",
+    "runtime-main.js.map": "/http//NaEbrahimpour.github.io/reactWeb/static/js/runtime-main.98472bcf.js.map",
+    "static/js/2.0dc34da3.chunk.js": "/http//NaEbrahimpour.github.io/reactWeb/static/js/2.0dc34da3.chunk.js",
+    "static/js/2.0dc34da3.chunk.js.map": "/http//NaEbrahimpour.github.io/reactWeb/static/js/2.0dc34da3.chunk.js.map",
+    "static/js/3.98524657.chunk.js": "/http//NaEbrahimpour.github.io/reactWeb/static/js/3.98524657.chunk.js",
+    "static/js/3.98524657.chunk.js.map": "/http//NaEbrahimpour.github.io/reactWeb/static/js/3.98524657.chunk.js.map",
+    "index.html": "/http//NaEbrahimpour.github.io/reactWeb/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/http//NaEbrahimpour.github.io/reactWeb/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.0dc34da3.chunk.js.LICENSE.txt": "/http//NaEbrahimpour.github.io/reactWeb/static/js/2.0dc34da3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/http//NaEbrahimpour.github.io/reactWeb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98472bcf.js",
+    "static/js/2.0dc34da3.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.6d8bb017.chunk.js"
+  ]
+}
