@@ -1,24 +1,29 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import Slider from './components/Slider';
+import Main from './components/Main';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import Seafood from './components/Kampeir';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Router>
+      <Slider />
+      <Navbar />
+      <Switch>
+      <Route path='/' exact  component={Main}/>
+      <Route path='/ارتباط با ما' exact component={Contact}/>
+      <Route path='/غذاهای دریایی' exact component={Seafood}/>
+      </Switch>
+      <Footer />
+    </Router>
+      
+    </>
   );
 }
 
