@@ -6,7 +6,7 @@ import Main from './components/Main';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import Seafood from './components/Kampeir';
+import Seafood from './components/Seafood';
 
 
 function App() {

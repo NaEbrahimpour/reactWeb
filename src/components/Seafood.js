@@ -1,11 +1,11 @@
 import React from 'react'
-import './Kampeir.css'
+import './Seafood.css'
 import {
     Card, Button, CardImg, CardTitle, CardText, CardDeck,
     CardSubtitle, CardBody, CardColumns 
   } from 'reactstrap';
 
-function Kampeir() {
+function Seafood() {
     return (
         <>
         <CardDeck style={{display: 'flex', flexDirection: 'row', gap:"size-200"} } >
@@ -53,4 +53,4 @@ function Kampeir() {
         </>
     )
 }
-export default Kampeir
+export default Seafood
